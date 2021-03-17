@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+README ainda em digititação...
+###### AGUARDE
 <!--
 **theISCA/theISCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
