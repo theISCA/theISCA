@@ -25,6 +25,6 @@
  </div>
   
  <div>
-  <img align="center" alt="scout-pic" height="60" width="60"
+  <img align="center" alt="scout-pic" height="40" width="40"
 src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/World_Scout_Emblem_1955.svg/1200px-World_Scout_Emblem_1955.svg.png">    
   </div>  
