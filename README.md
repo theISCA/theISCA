@@ -9,10 +9,10 @@
   <h4><b>This</b> is what I like 👇🏼</h4>
 </p>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Isca-clj" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg">
-  <img align="center" alt="Isca-js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Isca-ts" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Isca-ts" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Isca-dev" height="50" width="40" src="https://icon.icepanel.io/Technology/svg/Devicon.svg">
+  <img align="center" alt="Isca-devops" height="50" width="40" src="https://cdn.worldvectorlogo.com/logos/devops-2.svg">  
+  <img align="center" alt="Isca-devops" height="50" width="50" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-agile-web-design-and-development-flatart-icons-flat-flatarticons.png">
+  
 </div>
 
 ---
